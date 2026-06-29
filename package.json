@@ -1,0 +1,11 @@
+{
+  "name": "metubebackend",
+  "version": "1.0.0",
+  "description": "Backend of MeTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaid",
+  "license": "ISC"
+}
