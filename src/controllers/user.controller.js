@@ -5,7 +5,6 @@ import uploadOnCloudinary from "../utils/cloudinary.js";
 import ApiResponse from "../utils/apiResponse.js";
 
 
-
 const registerUser = asyncHandler(async (req, res) => {
     // Getting user details from FrontEnd
     const { fullname, email, username, password } = req.body
@@ -89,7 +88,7 @@ const loginUser = asyncHandler(async (req, res) => {
     }
 
     // password check
-    const isPasswordValid = await user.isPasswordCorrect(password)
+    const isPasswordValid = await user.isPasswordcorrect(password)
 
     if (!isPasswordValid) {
         throw new ApiError(401, "Invalid user credentials")
