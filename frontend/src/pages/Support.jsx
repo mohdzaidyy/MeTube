@@ -51,7 +51,7 @@ export default function Support() {
             <p className="text-xs text-zinc-500">Reach out and we'll get back to you shortly.</p>
           </div>
         </div>
-        <a href="mailto:support@metube.app" className="btn-primary">
+        <a href="mailto:mohdzaid83484@gmail.com" className="btn-primary">
           <Mail size={15} /> Email support
         </a>
       </div>
