@@ -7,20 +7,6 @@ build playlists, post short "tweets," and manage their content from a creator da
 
 ---
 
-## 📝 Resume Summary
-
-> Use this as-is under a Projects section — keep the technologies line as your keyword row.
-
-**MeTube | Full-Stack MERN Video Sharing Platform** — [GitHub]
-*Technologies: React, Vite, Node.js, Express.js, MongoDB, JWT, Axios, Multer, Cloudinary*
-
-- Architected a full-stack video-sharing platform inspired by YouTube using the MERN stack, following a modular, scalable folder structure across frontend and backend.
-- Implemented secure JWT-based authentication (access/refresh tokens) with Express middleware and MongoDB aggregation pipelines for user, video, and subscription management.
-- Built a responsive React (Vite + Tailwind) frontend integrated with 8+ RESTful API modules via Axios, including multipart media uploads handled through Multer and Cloudinary.
-- Validated and tested all API endpoints using Postman, applying REST best practices for routing, middleware, and centralized error handling.
-
----
-
 ## ✨ Features
 
 **Authentication & Accounts**
@@ -173,8 +159,6 @@ with `credentials: true` enabled — already configured in `app.js`.
 | `VITE_API_BASE_URL`   | Base URL of the backend API, including `/api/v1`    | `http://localhost:8000/api/v1` |
 
 ---
-
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
