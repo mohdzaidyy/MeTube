@@ -176,22 +176,15 @@ with `credentials: true` enabled — already configured in `app.js`.
 
 ## 📸 Screenshots
 
-> _Add screenshots of the app here once deployed/running locally, e.g.:_
+## 📸 Screenshots
 
 | Home | Watch Page | Channel |
 | ---- | ---------- | ------- |
-| ![Home](<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/a45bd11e-6296-452b-a7ae-45da4bec934b" />
-) | ![Watch](<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/1239d2d3-f0a9-4f8e-8705-f39ec41b2e0a" />
-) | ![Channel](<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/dd329d4c-29d2-4730-8da6-1011787cb0d2" />
-) |
+| <img src="https://github.com/user-attachments/assets/a45bd11e-6296-452b-a7ae-45da4bec934b" width="280" /> | <img src="https://github.com/user-attachments/assets/1239d2d3-f0a9-4f8e-8705-f39ec41b2e0a" width="280" /> | <img src="https://github.com/user-attachments/assets/dd329d4c-29d2-4730-8da6-1011787cb0d2" width="280" /> |
 
 | Dashboard | Upload Modal | Settings |
 | --------- | ------------ | -------- |
-| ![Dashboard](<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/664fd159-40b1-4225-85bd-8343cf549b14" />
-) | ![Upload](<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/0705e42f-e3e6-4afb-b26a-4ffcd6cf92b9" />
-) | ![Settings](<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/6b03513a-9841-43f4-8135-0412b4d20bed" />
-) |
-
+| <img src="https://github.com/user-attachments/assets/664fd159-40b1-4225-85bd-8343cf549b14" width="280" /> | <img src="https://github.com/user-attachments/assets/0705e42f-e3e6-4afb-b26a-4ffcd6cf92b9" width="280" /> | <img src="https://github.com/user-attachments/assets/6b03513a-9841-43f4-8135-0412b4d20bed" width="280" /> |
 ---
 
 ## 🛠️ Tech Stack
