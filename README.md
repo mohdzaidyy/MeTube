@@ -7,6 +7,20 @@ build playlists, post short "tweets," and manage their content from a creator da
 
 ---
 
+## 📝 Resume Summary
+
+> Use this as-is under a Projects section — keep the technologies line as your keyword row.
+
+**MeTube | Full-Stack MERN Video Sharing Platform** — [GitHub]
+*Technologies: React, Vite, Node.js, Express.js, MongoDB, JWT, Axios, Multer, Cloudinary*
+
+- Architected a full-stack video-sharing platform inspired by YouTube using the MERN stack, following a modular, scalable folder structure across frontend and backend.
+- Implemented secure JWT-based authentication (access/refresh tokens) with Express middleware and MongoDB aggregation pipelines for user, video, and subscription management.
+- Built a responsive React (Vite + Tailwind) frontend integrated with 8+ RESTful API modules via Axios, including multipart media uploads handled through Multer and Cloudinary.
+- Validated and tested all API endpoints using Postman, applying REST best practices for routing, middleware, and centralized error handling.
+
+---
+
 ## ✨ Features
 
 **Authentication & Accounts**
@@ -160,13 +174,32 @@ with `credentials: true` enabled — already configured in `app.js`.
 
 ---
 
+## 📸 Screenshots
+
+> _Add screenshots of the app here once deployed/running locally, e.g.:_
+
+| Home | Watch Page | Channel |
+| ---- | ---------- | ------- |
+| ![Home](<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/a45bd11e-6296-452b-a7ae-45da4bec934b" />
+) | ![Watch](<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/1239d2d3-f0a9-4f8e-8705-f39ec41b2e0a" />
+) | ![Channel](<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/dd329d4c-29d2-4730-8da6-1011787cb0d2" />
+) |
+
+| Dashboard | Upload Modal | Settings |
+| --------- | ------------ | -------- |
+| ![Dashboard](<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/664fd159-40b1-4225-85bd-8343cf549b14" />
+) | ![Upload](<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/0705e42f-e3e6-4afb-b26a-4ffcd6cf92b9" />
+) | ![Settings](<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/6b03513a-9841-43f4-8135-0412b4d20bed" />
+) |
+
+---
+
 ## 🛠️ Tech Stack
 
 **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, Multer, Cloudinary, bcrypt
 **Frontend:** React 19, Vite, React Router, Tailwind CSS, Axios, React Hook Form, react-hot-toast, lucide-react
 
 ---
-
 ## 📄 
 
 This project is open for personal and educational use. 
